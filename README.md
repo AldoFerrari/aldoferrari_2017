@@ -4,4 +4,4 @@ My personal website
 
 **Website** 
 
-Copyright 2013 Aldo Ferrari, under [the MIT license](LICENSE).
+Copyright 2017 Aldo Ferrari, under [the MIT license](LICENSE).
